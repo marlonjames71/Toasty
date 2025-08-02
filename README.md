@@ -15,4 +15,6 @@ Toasty makes it easy to display beautiful, customizable toast notifications acro
 
 Check out the docs for installation instructions and example code to get started.
 
+---
+
 This project is licensed under the MIT License – see the [LICENSE](/LICENSE) file for details.
